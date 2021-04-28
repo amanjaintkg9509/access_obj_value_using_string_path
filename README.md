@@ -1,4 +1,3 @@
-# js_problem_solution
 
 - Write method findPath
 - Should take two params:
